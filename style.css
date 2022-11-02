@@ -1,0 +1,95 @@
+
+html{
+    color: rgb(4, 83, 57);
+    margin: 150px;
+    
+}
+table{
+    border-width: 3px;
+    border-color: rgb(43, 170, 121);
+    border-style:solid;
+    
+}
+body{
+    border-width: 2px;
+    border-color: rgb(236, 5, 5);
+    border-style: solid;
+}
+h1{
+    border-width: 4px;
+    border-color: blue;
+    border-style: dashed;
+}
+h2{
+    border-width: 2px;
+    border-color: rgb(236, 236, 18);
+    border-style: double;
+}
+/* #kj, #mon{
+   color: rgb(0, 255, 13); 
+}
+#willi tr{
+    color: brown;
+} */
+#willi span{
+    color: rgb(221, 144, 28);
+}
+.org-number{
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+}
+caption:hover{
+    line-height: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(238, 55, 55);
+}
+table:hover{
+    color: rgb(99, 15, 235);
+}
+td:nth-child(3){
+    background-color: rgb(72, 255, 0);
+}
+/* #willi h2{
+    background-color: brown;
+    color: white;
+    width: 200px;
+    text-align: center;
+   
+} */
+#willi {
+    background-color: aqua;
+    border-color: rgb(35, 43, 43);
+    border-style: solid;
+    width: 500px;
+    width: 550px;
+}
+#bp{
+    background-color: rgb(156, 156, 238);
+    border-color: rgb(35, 43, 43);
+    border-style: solid;
+    width: 500px;
+}
+#mon{
+    background-color: rgb(188, 136, 236);
+    border-color: rgb(35, 43, 43);
+    border-style: solid;
+    width: 500px;
+}
+#kj{
+    background-color: rgb(245, 245, 129);
+    border-color: rgb(35, 43, 43);
+    border-style: solid;
+    width: 500px;
+    
+}
+/* div#bp{
+    position: absolute;
+    top: 10%;
+    left: 0% ;
+}
+div#willi{
+    position: absolute;
+    top: 5%;
+    left: 0% ;
+} */
